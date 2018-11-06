@@ -1,0 +1,27 @@
+{
+  "name": "hychat",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivanmoto254/hychat.git"
+  },
+  "author": "ivanmoto254@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivanmoto254/hychat/issues"
+  },
+  "homepage": "https://github.com/ivanmoto254/hychat#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "mongodb": "^3.1.9"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.6"
+  }
+}
